@@ -2,7 +2,7 @@
 all UI resource from arknights:endfield Android.<br/>
 
 > game version: 1.4<br/>
-> res version: initial_9163343-10_main_9163343-10<br/>
+> res version: initial_9599201-13_main_9599201-13<br/>
 > platform: Android<br/>
 > server: CN<br/>
 
